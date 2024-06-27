@@ -1,2 +1,2 @@
 # Calculator
-I develop this calcolator by using HTML,CSS and javascript. 
+I develop this calculator by using HTML,CSS and javascript. 
